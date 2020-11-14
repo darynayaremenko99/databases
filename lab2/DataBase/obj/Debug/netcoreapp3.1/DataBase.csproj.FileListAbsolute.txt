@@ -1,0 +1,15 @@
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\DataBase.exe
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.csprojAssemblyReference.cache
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\maxde\source\repos\DataBase\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\maxde\source\repos\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache
