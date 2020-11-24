@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vznAP7fwbRl5a1JzNQk22Z8guzQsb4wm6k0V5vjhiGPx3lp4wwifhrzhRWCDeLA40TeVx5e0UF2LfBs8uavWUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxde\\source\\repos\\DataBase\\DataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxde\\.nuget\\packages\\npgsql\\4.1.5\\npgsql.4.1.5.nupkg.sha512",
+    "C:\\Users\\maxde\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
